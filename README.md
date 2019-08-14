@@ -1,1 +1,1 @@
-# connect-four
+# Connect Four Game in Java
